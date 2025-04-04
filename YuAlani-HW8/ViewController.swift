@@ -1,4 +1,7 @@
-//
+// Project: YuAlani-HW8
+// EID: ay7892
+// Course: CS329E
+
 //  ViewController.swift
 //  YuAlani-HW8
 //
